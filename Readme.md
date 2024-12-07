@@ -65,4 +65,4 @@ Category-wise Spending:
 ```
 
 ## View
-![Project Demo Image](assets/view.png)
+![Project Demo Image](assets/demo.png)
